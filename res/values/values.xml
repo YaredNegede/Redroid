@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="time">
+        <item>5:30 pm</item>
+        <item>8:30 pm</item>
+        <item>10:30 pm</item>
+        <item>1:30 pm</item>
+        <item>2:30 pm</item>
+        <item>3:30 pm</item>
+        <item>5:30 pm</item>
+        <item>8:30 pm</item>
+        <item>10:30 pm</item>
+        <item>1:30 pm</item>
+        <item>2:30 pm</item>
+        <item>3:30 pm</item>
+    </string-array>
+    <string-array name="shows">
+        <item>Tascherishignslesh</item>
+        <item>Fikir inna dance</item>
+        <item>Asra andegnaw saat</item>
+        <item>Tascherishignslesh</item>
+        <item>Fikir inna dance</item>
+        <item>Asra andegnaw sat</item>
+        <item>Tascherishignslesh</item>
+        <item>Fikir inna dance</item>
+        <item>Asra andegnaw saat</item>
+        <item>Tascherishignslesh</item>
+        <item>Fikir inna dance</item>
+        <item>Asra andegnaw saat</item>
+    </string-array>
+
+</resources>

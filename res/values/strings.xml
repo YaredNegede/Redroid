@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Redroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="_refresh">Refresh</string>
+    <string name="_update">Update</string>
+    <string name="title_activity_home">Home</string>
+    <string name="schedule">Schedule</string>
+    <string name="Prev_shows">Previuos</string>
+    <string name="Next_shows">Next</string>
+    <string name="header">Now &amp; Next</string>
+    <string name="title_activity_main">Main</string>
+    <string name="day">Day</string>
+    <string name="hall">Hall Name</string>
+    <string name="title_activity_about_show">AboutShow</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_shows">Shows</string>
+
+</resources>

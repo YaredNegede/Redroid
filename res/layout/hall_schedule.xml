@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:id="@+id/tableRow6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="8dp"
+                android:src="@drawable/icon" />
+
+            <TextView
+                android:id="@+id/hallShow"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="bottom"
+                android:gravity="left"
+                android:paddingLeft="16dp"
+                android:text="show"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#00DDDD"
+                android:textSize="16sp" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="90dp"
+                android:layout_height="match_parent"
+                android:text="9:45 pm"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#999999" />
+
+            <TextView
+                android:id="@+id/tvGenre"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:paddingLeft="8dp"
+                android:text="Genre"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/duration"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:text="2:00"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#00FFFF" />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/tvAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="70dp"
+        android:text="this movies is about two lives from ethiopia and vegas, united states of america"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#999999" />
+
+</LinearLayout>
